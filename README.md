@@ -1,22 +1,28 @@
 # slate
 
-TODO: Write a description here
+A random [Crystal](https://crystal-lang.org) learning project for a dynamic new tab page, inspired by extensions like
+ [momentum](https://momentumdash.com/).
 
 ## Installation
 
+* Prequisites: Crystal 0.18+ installed.
 
-TODO: Write installation instructions here
-
+1. Clone the repo: `git clone git@github.com:opes/slate.git && cd slate/`
+2. Install the dependencies: `shards install`
+3. Build the project: `crystal compile --release src/slate.cr`
+4. Start the server: `./slate`
+5. View it in your browser at `localhost:3000`
 
 ## Usage
 
-
-
-TODO: Write usage instructions here
+Deploy it to heroku using the [heroku-buildpack-crystal](https://github.com/crystal-lang/heroku-buildpack-crystal)
+Set the homepage for your new tabs to open to the deployed URL.
 
 ## Development
 
-TODO: Write development instructions here
+Running tests (from your slate directory):
+
+`crystal spec spec/`
 
 ## Contributing
 
@@ -28,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Dan Minkevitch - creator, maintainer
+- [[opes]](https://github.com/opes) Dan Minkevitch - creator, maintainer
