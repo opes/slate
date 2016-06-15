@@ -19,6 +19,9 @@ A random [Crystal](https://crystal-lang.org) learning project for a dynamic new 
 Deploy it to heroku using the [heroku-buildpack-crystal](https://github.com/crystal-lang/heroku-buildpack-crystal)
 Set the homepage for your new tabs to open to the deployed URL.
 
+Alternatively, you can use the demo page:
+[View Demo](https://slatepage.herokuapp.com)
+
 ## Development
 
 Running tests (from your slate directory):
