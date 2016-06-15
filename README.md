@@ -1,4 +1,5 @@
 # slate
+[![Build Status](https://travis-ci.org/opes/slate.svg?branch=master)](https://travis-ci.org/opes/slate)
 
 A random [Crystal](https://crystal-lang.org) learning project for a dynamic new tab page, inspired by extensions like
  [momentum](https://momentumdash.com/).
