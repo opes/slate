@@ -2,6 +2,5 @@
 /libs/
 /.crystal/
 /.shards/
-/public/img/wallpapers/
 
 .DS_Store

@@ -22,7 +22,7 @@ Set the homepage for your new tabs to open to the deployed URL.
 
 Running tests (from your slate directory):
 
-`crystal spec spec/`
+`crystal spec`
 
 ## Contributing
 
