@@ -25,19 +25,19 @@ Set the homepage for your new tabs to open to the deployed URL.
 
 ## TODO
 
-[ ] Add Logo
-[ ] Add React/Redux/Webpack
-[ ] Localize Clock
-[ ] API for Widgets
-[ ] Daily Changing Background
-[ ] Weather Widget
-[ ] Google Calendar Integration
-[ ] Todo Widget/Wunderlist integration
-[ ] Notes Widget
-[ ] Stocks Widget
-[ ] Currently Playing/Media Widget
-[ ] DnD Components
-[ ] Performance & Local Caching
+- [ ] Add Logo
+- [ ] Add React/Redux/Webpack
+- [ ] Localize Clock
+- [ ] API for Widgets
+- [ ] Daily Changing Background
+- [ ] Weather Widget
+- [ ] Google Calendar Integration
+- [ ] Todo Widget/Wunderlist integration
+- [ ] Notes Widget
+- [ ] Stocks Widget
+- [ ] Currently Playing/Media Widget
+- [ ] DnD Components
+- [ ] Performance & Local Caching
 
 ## Development
 
