@@ -1,4 +1,4 @@
-# slate
+# Slate
 [![Build Status](https://travis-ci.org/opes/slate.svg?branch=master)](https://travis-ci.org/opes/slate)
 
 A random [Crystal](https://crystal-lang.org) learning project for a dynamic new tab page, inspired by extensions like
@@ -16,11 +16,28 @@ A random [Crystal](https://crystal-lang.org) learning project for a dynamic new 
 
 ## Usage
 
-Deploy it to heroku using the [heroku-buildpack-crystal](https://github.com/crystal-lang/heroku-buildpack-crystal)
+Deploy it to heroku using the [heroku-buildpack-crystal](https://github.com/crystal-lang/heroku-buildpack-crystal) or host it locally for faster load times.
 Set the homepage for your new tabs to open to the deployed URL.
 
-Alternatively, you can use the demo page:
+## Demo
+
 [View Demo](https://slatepage.herokuapp.com)
+
+## TODO
+
+[ ] Add Logo
+[ ] Add React/Redux/Webpack
+[ ] Localize Clock
+[ ] API for Widgets
+[ ] Daily Changing Background
+[ ] Weather Widget
+[ ] Google Calendar Integration
+[ ] Todo Widget/Wunderlist integration
+[ ] Notes Widget
+[ ] Stocks Widget
+[ ] Currently Playing/Media Widget
+[ ] DnD Components
+[ ] Performance & Local Caching
 
 ## Development
 

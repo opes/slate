@@ -1,8 +1,9 @@
-require "kemal"
+require "./shared"
+require "./controllers/*"
 
 get "/" do
   background = Dir.glob("./public/img/wallpapers/*.{png,jpg,jpeg,gif}").sample.split("/").last
-  render "./src/views/index.ecr", "./src/views/layouts/application.ecr"
+  app_render "index"
 end
 
 Kemal.run
