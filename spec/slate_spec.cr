@@ -5,7 +5,7 @@ describe "Slate" do
 
   it "renders the homepage" do
     get "/"
-    response.body.should contain "Welcome to the homepage!"
+    response.body.should contain "Slate New Tab Page"
   end
 
   it "contains a random background" do
